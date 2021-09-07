@@ -1,0 +1,27 @@
+{
+  "format_version": "1.16",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "ruby:horsearmordiamond"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "  #",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond"
+      },
+      "X": {
+        "item": "minecraft:wool"
+      }
+    },
+    "result": {
+      "item": "minecraft:horsearmordiamond"
+    }
+  }
+}

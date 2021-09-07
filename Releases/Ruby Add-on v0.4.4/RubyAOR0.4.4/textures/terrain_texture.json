@@ -1,0 +1,15 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name": "Ruby Add-on (resource)",
+   "texture_data" : {
+      "reactor_core" : {
+         "textures" : [
+            "textures/blocks/reactor_core_stage_0",
+            "textures/blocks/reactor_core_stage_1",
+            "textures/blocks/reactor_core_stage_2"
+         ]
+      }
+   },
+   "texture_name" : "atlas.terrain"
+}

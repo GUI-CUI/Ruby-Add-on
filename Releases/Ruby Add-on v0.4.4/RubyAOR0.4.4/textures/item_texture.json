@@ -1,0 +1,9 @@
+{
+   "resource_pack_name": "Ruby Add-on (resource)",
+   "texture_data": {
+      "horsesaddle": {
+         "textures": "textures/items/horsesaddle"
+      }
+   },
+   "texture_name": "atlas.items"
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ruby Add-on (resource)",
+    "description": "主に没要素を追加するアドオンです。",
+    "version": [0, 4, 4],
+    "min_engine_version": [1, 16, 100],
+    "uuid": "f86635db-18d0-44d4-8233-0caa2af166c2"
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "主に没要素を追加するアドオンです。(リソースパック)",
+      "version": [0, 4, 4],
+      "uuid": "9dc029da-4fd8-4c0e-bf01-b2bf25ecaffe"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e523d697-47d0-47d6-aa4a-301e9d01d3c5",
+      "version": [0, 4, 4]
+    }
+  ]
+}

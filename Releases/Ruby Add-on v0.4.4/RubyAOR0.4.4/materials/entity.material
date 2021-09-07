@@ -1,0 +1,7 @@
+{
+  "materials": {
+    "version": "0.4.2",
+    "ruby:giant": {},
+    "minecraft:zombie": {}
+  }
+}

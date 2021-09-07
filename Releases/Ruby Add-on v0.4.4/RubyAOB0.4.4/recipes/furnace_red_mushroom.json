@@ -1,0 +1,14 @@
+{
+  "format_version": "1.16",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "ruby:furnace_red_mushroom"
+    },
+
+
+    "tags": ["furnace"],
+    "input": "minecraft:red_mushroom",
+    "output": "minecraft:dye:1"
+  }
+  
+}

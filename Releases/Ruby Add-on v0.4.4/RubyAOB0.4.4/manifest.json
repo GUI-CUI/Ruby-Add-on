@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ruby Add-on (behavior)",
+    "description": "主に没要素を追加するアドオンです。",
+    "version": [0, 4, 4],
+    "min_engine_version": [1, 16, 100],
+    "uuid": "e523d697-47d0-47d6-aa4a-301e9d01d3c5"
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "主に没要素を追加するアドオンです。(ビヘイビアパック)",
+      "version": [0, 4, 4],
+      "uuid": "6b3e22a9-a6de-4fce-9702-7fb3897d244a"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f86635db-18d0-44d4-8233-0caa2af166c2",
+      "version": [0, 4, 4]
+    }
+  ]
+}

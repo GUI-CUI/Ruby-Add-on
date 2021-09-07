@@ -1,0 +1,27 @@
+{
+  "format_version": "1.16",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "ruby:horsesaddle"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#X#",
+      "X X"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:leather"
+      },
+      "X": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "ruby:horsesaddle"
+    }
+  }
+}
