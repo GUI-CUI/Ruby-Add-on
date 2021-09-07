@@ -3,6 +3,10 @@
 
 ※まだ開発段階です。
 
+# ダウンロード
+(注意:バグ有)
+[v0.4.4](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.4.4)
+
 今のところ実装できているのは
 
 # 追加される要素
