@@ -30,7 +30,7 @@ So far, we've been able to implement
 
 ## Entities (including MOBs).
 * Giant
-* minecart with Furnus
+* minecart with Furnace
 * minecart with dispenser
 * Illusioner
 
