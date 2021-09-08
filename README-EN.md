@@ -12,9 +12,9 @@ This is an add-on that implements an immersive element I'm working on.
 So far, we've been able to implement
 
 ## Crafting
-* Stonecutters
+* Stonecutter
 * Nether Reactor Core
-* Enchanted Apples
+* Enchanted Apple
 * Horse armor
 
 ## Refining
@@ -25,17 +25,17 @@ So far, we've been able to implement
 
 ## Items.
 * Horse saddle
-* Rubies
-* Arrowheads
+* Ruby
+* Quiver
 
 ## Entities (including MOBs).
 * Giant
-* Trolley with Kamado
-* Trolley with dispenser
+* minecart with Furnus
+* minecart with dispenser
 * Illusioner
 
 ## Blocks
-* Shrubs
+* Shrub
 * Ruby ore
 * Light blue roses
 * One square of peonies
