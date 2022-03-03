@@ -5,8 +5,9 @@ This is an add-on that implements an immersive element I'm working on.
 (It is still in the development stage.)
 # Download
 
-(Note: buggy)
-[v0.4.4](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.4.4)
+[v0.5.2](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.2)
+[v0.5.1](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.1)
+(Note: buggy) [v0.4.4](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.4.4)
 
 # Elements to be added
 So far, we've been able to implement
