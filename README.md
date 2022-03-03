@@ -5,8 +5,10 @@
 
 # ダウンロード
 [v0.5.2](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.2)
+
 [v0.5.1](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.1)
 
+[v0.4.4](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.4.4) (注:バグあり)
 
 # 追加される要素
 今のところ実装できているのは
