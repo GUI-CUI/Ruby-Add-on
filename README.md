@@ -4,6 +4,7 @@
 ※まだ開発段階です。
 
 # ダウンロード
+[v0.5.2](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.2)
 [v0.5.1](https://github.com/GUI-CUI/Ruby-Add-on/releases/tag/v0.5.1)
 
 
